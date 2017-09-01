@@ -1,0 +1,25 @@
+{
+  "name": "etherscan-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transmute-industries/etherscan-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/transmute-industries/etherscan-tests/issues"
+  },
+  "homepage": "https://github.com/transmute-industries/etherscan-tests#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}

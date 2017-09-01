@@ -1,0 +1,3 @@
+# Etherscan Tests
+
+Etherscan API is nice, this module is for showing how to use it... 
